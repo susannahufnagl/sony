@@ -8,7 +8,9 @@ To set up and run this project, please follow the steps below:
 
 1. Clone the project from GitHub:
 
-   ```bash $git clone https://github.com/yourusername/SonyBewerbung.git  
+   ```bash
+    $git clone https://github.com/yourusername/SonyBewerbung.git
+   ``` 
 2. Navigate into the project directory: cd SonyBewerbung
 
 
