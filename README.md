@@ -16,19 +16,26 @@ To set up and run this project, please follow the steps below:
 
 3. Install the project dependencies
 
+```bash
 $npm install
+```
 
 ## Running the Project
 
 Starting the Development Server
 To start a development server with hot reloading at localhost:3000, run the following command:
 
+```bash
 $npm run dev
+```
+
   Building for Production and Starting the Server
 To create a production build of the project and start the server, run the following commands:
 
+```bash
 $npm run build
 $npm run start
+```
 
 
 
